@@ -2,6 +2,8 @@
 
 Control the volume and exit games on your arcade/MAME machine using a Raspberry Pi Pico and a rotary encoder.
 
+![Picture](https://github.com/2wenty2wo/pico-usb-volume-controller/blob/main/picture.gif?raw=true)
+
 ## Introduction
 
 Arcade/MAME machines running on Windows often lack an intuitive way to control the volume or exit games without diving into the software or using complex key combinations. This project provides a simple and elegant solution by using a Raspberry Pi Pico and a rotary encoder. With this setup, you can easily control the volume and exit games directly from your arcade cabinet's control panel.
